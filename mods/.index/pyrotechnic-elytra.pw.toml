@@ -1,0 +1,17 @@
+filename = 'pyrotechnic-elytra-fabric-1.21.1-1.0.0.jar'
+name = 'Pyrotechnic Elytra'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = '6237b7e3a27d0d2a5ecb5ce424141732794983e39de53c02dc3a590acaa38dc5443781f9fd2e601e72a5cf10f84acb86b95217aa1e761d98348e75014fd07151'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SomUrE3g/versions/apg8KuCV/pyrotechnic-elytra-fabric-1.21.1-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'SomUrE3g'
+version = 'apg8KuCV'
